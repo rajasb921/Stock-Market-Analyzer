@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The Stock Market Analyzer is an interactive Windows Forms application, that can be used to find patterns in the candlestick charts of any stock asset. These patterns can be used to perform technical analysis and enable traders to interpret price information quickly. Using object-oriented principles, the application user data from Yahoo Finance to create candlestick objects that are displayed in a chart. Any user can then selected their required pattern, ranging from single-candlestick patterns to patterns spanning multiple candlesticks.
+The Stock Market Analyzer is an interactive Windows Forms application, that can be used to find patterns in the candlestick charts of any stock asset. These patterns can be used to perform technical analysis and enable traders to interpret asset price information quickly. Using object-oriented principles, the application user data from Yahoo Finance to create candlestick objects that are displayed in a chart. Any user can then selected their required pattern, ranging from single-candlestick patterns to patterns spanning multiple candlesticks.
 
 ### Built With
 * C++ / CLI
